@@ -1,4 +1,5 @@
 # Web Scraping Projects
+![Alt Text](images/scrap.png)
 
 This repository contains two projects for web scraping:
 
@@ -10,11 +11,9 @@ This repository contains two projects for web scraping:
 - [1. SALENIUM_SCRAPPING](#1-salenium_scrapping)
   - [Requirements](#requirements)
   - [Setup and Installation](#setup-and-installation)
-  - [How to Run](#how-to-run)
 - [2. PRODUCT_SCRAPING FROM WEBSITE](#2-product_scraping-from-website)
   - [Requirements](#requirements-1)
   - [Setup and Installation](#setup-and-installation-1)
-  - [How to Run](#how-to-run-1)
 - [Contributing](#contributing)
 - [License](#license)
 

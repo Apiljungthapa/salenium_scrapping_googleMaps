@@ -104,7 +104,7 @@ This project provides a GUI-based tool for scraping product content from website
 If you want to contribute to this project, feel free to open a pull request or issue on GitHub. We welcome all contributions that improve functionality or add new features!
 
 ### License
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/Apiljungthapa/salenium_scrapping_googleMaps/blob/main/LICENSE).
 
    
 

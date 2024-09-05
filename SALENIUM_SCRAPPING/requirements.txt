@@ -1,0 +1,6 @@
+selenium
+pandas
+pillow
+keyboard
+openpyxl
+notebook
